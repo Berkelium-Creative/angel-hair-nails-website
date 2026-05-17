@@ -1,47 +1,153 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Angel Hair & Nails",
+  "tagline": "A little salon in Lake Forest. Care first.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "LAKE FOREST · CALIFORNIA",
+    "heading": "A little salon. A lot of care.",
+    "subheading": "A neighborhood salon in Lake Forest with the same hands on every chair. Hair, nails, lash work — by appointment, slow on purpose, and the kind of polish that holds for three weeks.",
+    "ctaText": "Reserve a chair",
+    "ctaLink": "tel:9498371777",
+    "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "Le salon",
+    "heading": "One studio. Two stylists. Every appointment, by hand.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Angel is a two-chair salon on the Lake Forest side of El Toro. We're not an empire and we're not trying to be — we're owner-operated, double-booked-never, and the woman who answers the phone is also the one who'll do your nails.",
+      "Hair, nails, and lash work are all in the same room because for most of our clients those are the same morning. We block out two hours when you book the trio so nothing feels rushed.",
+      "We charge for the work, not the seat. If a service runs short we say so; if it needs the time it takes the time. The point of being small is being honest."
     ]
   },
+  "principles": [
+    {
+      "title": "By appointment",
+      "text": "We don't double-book. Your stylist is yours from the first wash to the last topcoat."
+    },
+    {
+      "title": "Three-week polish",
+      "text": "Structured gel applied over real prep — sealed side walls, cleaned cuticles. Wears like new for twenty-one days."
+    },
+    {
+      "title": "Plain prices",
+      "text": "Written quote before any add-on. The number on our card is the number on your receipt."
+    }
+  ],
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Signature Gel Manicure",
+      "description": "Cuticle reset, hand massage, structured gel in your choice of colour, sealed side walls. Holds for twenty-one days.",
+      "price": "$55"
+    },
+    {
+      "title": "Spa Pedicure",
+      "description": "Warm soak, sugar scrub, callus refinement, hot-towel wrap, hand-painted polish. Forty-five minutes start to finish.",
+      "price": "$70"
+    },
+    {
+      "title": "Cut & Style",
+      "description": "Consultation, cut, blow-out, finished style. We talk about how you wear it at home before the scissors come out.",
+      "price": "from $75"
+    },
+    {
+      "title": "Single-process Colour",
+      "description": "Root-to-tip glaze or full single-process — bond builder included, gloss applied last. Ammonia-free options on request.",
+      "price": "from $115"
+    },
+    {
+      "title": "Lash Lift & Tint",
+      "description": "A curl that lasts six to eight weeks, paired with a tint shaped to your eye colour. About forty minutes in the chair.",
+      "price": "$95"
+    },
+    {
+      "title": "Hair · Nails · Lash trio",
+      "description": "Our most-requested package — cut & style, gel manicure, lash lift, blocked back-to-back over two hours. Reserve at least a week ahead.",
+      "price": "$220"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Lauren M.",
+      "rating": 5,
+      "context": "Five-year client",
+      "text": "I've followed Angel through two studios. The work is meticulous, the room is warm, and you walk out feeling cared for, not processed. The trio is worth every dollar."
+    },
+    {
+      "name": "Sofía P.",
+      "rating": 5,
+      "context": "Wedding party",
+      "text": "Booked our whole bridal party here — six girls, two stylists, one morning, no chaos. The polish on my mother lasted longer than the honeymoon."
+    },
+    {
+      "name": "Hannah W.",
+      "rating": 4,
+      "context": "Lake Forest local",
+      "text": "The only place in south OC where my brunette glaze actually looks like it should. Bonus: the gel manicure I got the same morning is on week three and not chipping."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(949) 837-1777",
+    "email": "hello@angelhairandnails.com",
+    "address": "23532 El Toro Rd, Lake Forest, CA 92630",
+    "mapEmbedQuery": "Angel Hair Nails Salon, 23532 El Toro Rd, Lake Forest, CA 92630",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "Closed",
+      "Tuesday": "9:00 AM – 7:00 PM",
+      "Wednesday": "9:00 AM – 7:00 PM",
+      "Thursday": "9:00 AM – 7:00 PM",
+      "Friday": "9:00 AM – 7:00 PM",
+      "Saturday": "9:00 AM – 6:00 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Angel Hair & Nails — A little salon in Lake Forest. Care first.",
+    "description": "An owner-operated salon in Lake Forest, CA. Hair, nails, lash. By appointment, slow on purpose, gel that holds for three weeks. Lake Forest's quietly-favorite room.",
+    "keywords": [
+      "Lake Forest nail salon",
+      "Lake Forest hair stylist",
+      "gel manicure Lake Forest",
+      "lash lift Orange County",
+      "bridal hair Lake Forest",
+      "small salon south OC"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#7C2D12",
+    "accentColor": "#B8860B",
+    "fontFamily": "marcellussc-quattrocento"
+  },
+  "designSystem": {
+    "searchQuery": "french boudoir feminine parisian apothecary delicate rose cream burgundy nail salon",
+    "styleName": "Flat Design + French Boudoir (Parisian apothecary)",
+    "pattern": "Hero + Features + CTA (centered editorial)",
+    "palette": {
+      "primary": "#7C2D12",
+      "secondary": "#C9909C",
+      "cta": "#7C2D12",
+      "accent": "#B8860B",
+      "background": "#FBF7F4",
+      "text": "#1C1917",
+      "muted": "#A8A29E",
+      "border": "#B8860B",
+      "surface": "#F5EFE8"
+    },
+    "typography": {
+      "heading": "Marcellus SC",
+      "body": "Quattrocento",
+      "label": "Great Vibes",
+      "mood": "french boudoir, parisian apothecary, romantic, hand-script eyebrows, small-caps Roman, elegant"
+    },
+    "moves": [
+      "Burgundy top ribbon with Marcellus SC small-caps spec line — Maison header treatment",
+      "Centered editorial hero with double-rule ornate framed photo BELOW the headline, not above",
+      "Hand-script Great Vibes eyebrows ('welcome —', 'le salon', 'la carte', 'visitez', 'à bientôt —')",
+      "Gold hairline dividers with linear-gradient fade — used between every section",
+      "Services typeset as French menu with N° 01 mono index + small-caps title + right-aligned burgundy price",
+      "Reviews on dusty-rose full-bleed: cream cards with gold hairline borders + burgundy N° tag floating",
+      "Visit block: ornate-frame map (1px gold border + 1px gold outline offset 6px) on cream",
+      "Burgundy full-bleed CTA with antique-gold pill button and gold hairline divider",
+      "Footer is centered Maison wordmark + small-caps tri-column — no boxes, all type"
+    ]
   }
 }
